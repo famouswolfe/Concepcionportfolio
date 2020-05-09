@@ -11,20 +11,7 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/stylish-portfolio",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/issues",
-        "email": "feedback@startbootstrap.com"
-    },
     "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio.git"
-    },
     "dependencies": {
         "bootstrap": "4.3.1",
         "font-awesome": "4.7.0",
@@ -35,13 +22,10 @@
     },
     "devDependencies": {
         "browser-sync": "2.26.7",
- dependabot/npm_and_yarn/gulp-clean-css-4.2.0
         "gulp": "^3.9.1",
         "gulp-clean-css": "4.2.0",
-
         "gulp": "^4.0.2",
         "gulp-clean-css": "3.9.2",
- master
         "gulp-header": "2.0.9",
         "gulp-rename": "^1.3.0",
         "gulp-sass": "^4.0.2",
